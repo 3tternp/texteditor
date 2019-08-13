@@ -1,6 +1,12 @@
-# sublimetext
-Simply automated script to install sublime text editor in Linux distributions(like ubuntu,and Debian based distributions) 
-successfully tested on ubuntu 18.04 LTS and Kali Linux 2018.3 
+# Text Editor for Linux (includes most used code editor)
+Simply automated script to install sublime text editor, Visual studio code, and Atom code editor in Linux distributions(like ubuntu,and Debian based distributions) 
+#Sublime text editor
+successfully tested on ubuntu and Debian Based System
 
 #visualcode editor
-Microsoft visual code editor is successfully installed on kali Linux 2019.3 
+Microsoft visual code editor is successfully installed on Debian based system 
+
+#Atom Text Editor 
+Atom code editor is successfully installed and tested on Debian Based System
+
+
