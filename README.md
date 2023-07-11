@@ -11,6 +11,6 @@ Microsoft visual code editor is successfully installed on Debian based system
 
 #Atom Text Editor 
 
-Atom code editor is successfully installed and tested on Debian Based System
+Atom code editor will be depricated in near future and another code editor will be aded 
 
 
