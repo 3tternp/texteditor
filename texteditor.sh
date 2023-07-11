@@ -41,7 +41,7 @@ sudo apt-get remove code -y
 exit
 elif [ $count -eq 5 ]
 then
-sudo wget https://atom.io/download/deb -O atom.deb
+sudo wget https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.deb -O atom.deb
 sudo dpkg -i atom.deb
 sudo apt-get install -f -y
 exit
